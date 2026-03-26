@@ -37,8 +37,10 @@ Currently working on:
 
 ### 📊 Data
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Library-blue?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?logo=plotly)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly)
 ### 🌐 UI
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
