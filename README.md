@@ -25,8 +25,6 @@ Currently working on:
 
 # 🧠 Tech Stack
 
-<div align="center">
-
 ### 👨‍💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -56,8 +54,6 @@ Currently working on:
 ![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
-
-</div>
 
 ---
 
