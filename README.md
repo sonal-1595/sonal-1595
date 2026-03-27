@@ -93,7 +93,7 @@ Features:
 
 # 📊 GitHub Stats
 
-![Sonal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonal-1595&show_icons=true&theme=tokyonight)
+![Sonal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sonal-1595&show_icons=true&theme=tokyonight)
 
 ---
 
